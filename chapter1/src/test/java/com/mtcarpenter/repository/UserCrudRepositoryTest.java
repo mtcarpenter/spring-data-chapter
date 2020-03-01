@@ -1,9 +1,7 @@
-package com.mtcarpenter.chapter1.repository;
+package com.mtcarpenter.repository;
 
 
-import com.mtcarpenter.chapter1.entity.User;
-import org.junit.After;
-import org.junit.Before;
+import com.mtcarpenter.entity.User;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.slf4j.Logger;

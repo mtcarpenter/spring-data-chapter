@@ -1,6 +1,6 @@
-package com.mtcarpenter.chapter1.repository;
+package com.mtcarpenter.repository;
 
-import com.mtcarpenter.chapter1.entity.User;
+import com.mtcarpenter.entity.User;
 import org.springframework.data.repository.CrudRepository;
 
 /**
