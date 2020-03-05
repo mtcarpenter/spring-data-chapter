@@ -33,11 +33,11 @@
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-pool2</artifactId>
         </dependency>
-        <!-- jackson 序列化 -->
+        <!-- jackson 序列化  安全版本：https://www.huaweicloud.com/notice/2018/20190801135923810.html -->
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
-            <version>2.9.0</version>
+            <version>2.9.9.2</version>
         </dependency>
         <!--测试-->
         <dependency>
