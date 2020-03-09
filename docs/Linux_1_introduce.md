@@ -23,10 +23,13 @@ UNIX（此名称是源自以前的“Multics”操作系统）于 1969 年在 AT
 | 软件     | 每一种特定功能可能都需要商业软件的支持，需要购买相应的授权。 | 大部分软件都可以自由获取，同样功能的软件选择较少。           |
 
 ## 镜像下载地址
-centos镜像地址: `http://mirror.centos.org/`
-阿里云镜像地址：`https://mirrors.aliyun.com/centos/`
-网易开源镜像站: `http://mirrors.163.com/`
-搜狐镜像地址：`http://mirrors.sohu.com/centos/`
+- centos镜像地址: `http://mirror.centos.org/`
+
+- 阿里云镜像地址：`https://mirrors.aliyun.com/centos/`
+
+- 网易开源镜像站: `http://mirrors.163.com/`
+
+- 搜狐镜像地址：`http://mirrors.sohu.com/centos/`
 
 ## Linux 目录
 
