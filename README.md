@@ -3,9 +3,15 @@
 
 spring-data-chapter 持续更新spring data -* 相关子项目学习教程。 
 
+### Linux 开发者学习篇
+
+| 博客文章   | 文章地址     |
+| ---------- | ------------ |
+| Linux 简介 | [阅读文章]() |
+
 ### Spring Data 系列学习
 #### Spring Data Jpa
-| 源码章节 | 博客文章                                         |                                                              |
+| 源码章节 | 博客文章                                         | 文章地址                                                     |
 | -------- | ------------------------------------------------ | ------------------------------------------------------------ |
 |          | 了解 Spring Data JPA 、 Jpa 和 Hibernate         | [阅读文章](https://mp.weixin.qq.com/s/7dIxS3scphZRgruWF1gRog) |
 | chapter1 | Spring Data JPA 基础查询                         | [阅读文章](https://mp.weixin.qq.com/s/uUAchzgMGGB4x9tPuilcYw) |
