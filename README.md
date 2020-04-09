@@ -10,12 +10,16 @@ spring-data-chapter 持续更新spring data -* 相关子项目学习教程。
 | Linux 简介                     | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Linux_1_introduce.md) |
 | Linux 中的 Vim 使用            | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Linux_2_Vim.md) |
 | Linux 用户管理、文件操作、权限 | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Linux_3_user_file_auth.md) |
+| centos 7 安装 docker           | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Linux_4_centos_docker.md) |
 
 ### Docker  开发者学习篇
 
-| 博客文章   | 文章地址                                                     |
-| ---------- | ------------------------------------------------------------ |
-| Linux 简介 | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Docker_1_introduce.md) |
+| 博客文章                  | 文章地址                                                     |
+| ------------------------- | ------------------------------------------------------------ |
+| Docker 简介               | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Docker_1_introduce.md) |
+| Docker 常用命令操作       | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Docker_2_usecode.md) |
+| Dockerfile 定制镜像       | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Docker_3_dockerfile.md) |
+| Docker Compose 编排微服务 | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Docker _4_compose.md) |
 
 ### Spring Data 系列学习
 
