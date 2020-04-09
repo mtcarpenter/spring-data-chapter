@@ -19,7 +19,7 @@ spring-data-chapter 持续更新spring data -* 相关子项目学习教程。
 | Docker 简介               | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Docker_1_introduce.md) |
 | Docker 常用命令操作       | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Docker_2_usecode.md) |
 | Dockerfile 定制镜像       | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Docker_3_dockerfile.md) |
-| Docker Compose 编排微服务 | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Docker 4_compose.md) |
+| Docker Compose 编排微服务 | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Docker_4_compose.md) |
 
 ### Spring Data 系列学习
 
