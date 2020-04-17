@@ -3,39 +3,41 @@
 
 spring-data-chapter 持续更新spring data -* 相关子项目学习教程。 
 
-### Linux  开发者学习篇
+### Linux  
 
-| 博客文章                       | 文章地址                                                     |
-| ------------------------------ | ------------------------------------------------------------ |
-| Linux 简介                     | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Linux_1_introduce.md) |
-| Linux 中的 Vim 使用            | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Linux_2_Vim.md) |
-| Linux 用户管理、文件操作、权限 | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Linux_3_user_file_auth.md) |
-| centos 7 安装 docker           | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Linux_4_centos_docker.md) |
+*linux 基础学习*
 
-### Docker  开发者学习篇
+- [【Linux 开发者学习篇】Linux 简介](https://blog.lixc.top/linux&docker/2020/02/29/linux_introduce.html)
+- [【Linux 开发者学习篇】Linux 中的 Vim 使用](https://blog.lixc.top/linux&docker/2020/03/01/linux_vim.html)
+- [【Linux 开发者学习篇】用户管理、文件操作、权限](https://blog.lixc.top/linux&docker/2020/03/02/linux_user_file_auth.html)
+- [【Linux 开发者学习篇】Linux下Docker的安装](https://blog.lixc.top/linux&docker/2020/03/03/linux_centos_docker.html)
 
-| 博客文章                  | 文章地址                                                     |
-| ------------------------- | ------------------------------------------------------------ |
-| Docker 简介               | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Docker_1_introduce.md) |
-| Docker 常用命令操作       | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Docker_2_usecode.md) |
-| Dockerfile 定制镜像       | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Docker_3_dockerfile.md) |
-| Docker Compose 编排微服务 | [阅读文章](https://github.com/mtcarpenter/spring-data-chapter/blob/master/docs/Docker_4_compose.md) |
+### Docker 
 
-### Spring Data 系列学习
+*docker 基础学习篇*
 
-#### Spring Data Jpa
-| 源码章节 | 博客文章                                         | 文章地址                                                     |
-| -------- | ------------------------------------------------ | ------------------------------------------------------------ |
-|          | 了解 Spring Data JPA 、 Jpa 和 Hibernate         | [阅读文章](https://mp.weixin.qq.com/s/7dIxS3scphZRgruWF1gRog) |
-| chapter1 | Spring Data JPA 基础查询                         | [阅读文章](https://mp.weixin.qq.com/s/uUAchzgMGGB4x9tPuilcYw) |
-| chapter2 | Spring Data JPA 自定义查询，分页，排序，条件查询 | [阅读文章](https://mp.weixin.qq.com/s/GBqCPtSdCVEJ6zl1miawyw) |
-| chapter3 | Spring Data JPA @Query 注解查询                  | [阅读文章](https://mp.weixin.qq.com/s/gISvKvKaly3KiizdFuNBQg) |
-| chapter4 | Spring Data Redis 入门                           | [阅读文章](https://mp.weixin.qq.com/s/5xVe1BpCgtlmyDJ9urKgQQ) |
-| chapter5 | Spring Data JPA +Redis+cache 实现缓存            |                                                              |
-| chapter6 | Spring Data JPA + Thymeleaf 简单使用             |                                                              |
-|          | 持续更新中..........                             |                                                              |
+- [【Docker 开发者学习篇】Docker 简介](https://blog.lixc.top/linux&docker/2020/03/09/docker_introduce.html)
+- [【Docker 开发者学习篇】Docker 常用命令操作](https://blog.lixc.top/linux&docker/2020/03/10/docker_usecode.html)
+- [【Docker 开发者学习篇】Dockerfile 定制镜像](https://blog.lixc.top/linux&docker/2020/03/11/docker_dockerfile.html)
+- [【Docker 开发者学习篇】Docker Compose 编排微服务](https://blog.lixc.top/linux&docker/2020/03/12/docker_compose.html)
+
+### Spring boot
+
+*Spring Data Jpa 学习*
+
+- [【Spring Data 系列学习】了解 Spring Data JPA 、 Jpa 和 Hibernate](https://blog.lixc.top/springboot/2020/02/22/spring-data-jpa-hibernate.html)
+- `chapter1`:  [【Spring Data 系列学习】Spring Data JPA 基础查询](https://blog.lixc.top/springboot/2020/02/23/spring-data-jpa-basic.html)
+- `chapter2`:  [【Spring Data 系列学习】Spring Data JPA 自定义查询，分页，排序，条件查询](https://blog.lixc.top/springboot/2020/02/24/spring-data-jpa-page-sort.html)
+- `chapter3`:  [【Spring Data 系列学习】Spring Data JPA @Query 注解查询](https://blog.lixc.top/springboot/2020/02/25/spring-data-jpa-query.html)
+- `chapter4`:   [【Spring Data 系列学习】Spring Data Redis 入门](https://blog.lixc.top/springboot/2020/02/26/spring-data-jpa-redis.html)
+- `chapter5`:   [【Spring Data 系列学习】Spring Data JPA +Redis+cache 实现缓存](https://blog.lixc.top/springboot/2020/02/27/spring-data-jpa-redis-cache.html)
+- `chapter6`:   [【Spring Data 系列学习】Spring Data JPA + Thymeleaf 简单使用](https://blog.lixc.top/springboot/2020/02/28/spring-data-jpa-thymeleaf.html)
 
 
+
+### 作者微信公众号
+
+![qrcode.jpg](http://mtcarpenter.oss-cn-beijing.aliyuncs.com/logo/qrcode.jpg)
 
 
 
